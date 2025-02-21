@@ -1,5 +1,5 @@
 # contexto
-El projecto original es Stable-diffusion y dependiendo el hardware se puede instalar de muchas formas a continuación a instalación mas sensilla solo con CPU
+El projecto original es Stable-diffusion y dependiendo el hardware se puede instalar de muchas formas a continuación a instalación mas sencilla solo con CPU
 
 # Crear y activar un entorno virtual recomendable Python 3.10
 /virtualenv env         /env/Scripts/activate.bat
