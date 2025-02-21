@@ -14,3 +14,15 @@ webui.bat
 http://127.0.0.1:7860/
 
 # El README original se esta en el carpeta del proyecto
+proyecto original: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+# otros proyectos de Deep Learning (Aprendizaje Profundo)
+https://github.com/janishar/mit-deep-learning-book-pdf
+
+https://udlbook.github.io/udlbook/
+
+https://github.com/NVIDIA/DeepLearningExamples 
+
+https://github.com/ROCm/rocm-examples
+
+https://www.tensorflow.org/probability/overview
