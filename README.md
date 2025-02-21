@@ -2,12 +2,12 @@
 El projecto original es Stable-diffusion y dependiendo el hardware se puede instalar de muchas formas a continuación a instalación mas sencilla solo con CPU
 
 # Crear y activar un entorno virtual recomendable Python 3.10
-/virtualenv env         /env/Scripts/activate.bat
+/virtualenv env                     /env/Scripts/activate.bat
 # requerimientos en dos pasos:
-# Paso 1_
+# Paso 1, ejecutar:
 pip install -r requirements.txt
 
-# Paso2
+# Paso2 ejecutar en el raiz del proyecto:
 webui.bat
 
 # Se ejecuta en un servicio en:
